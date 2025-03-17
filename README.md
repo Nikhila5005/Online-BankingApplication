@@ -50,7 +50,6 @@ The Online Banking Application is designed to provide a secure, efficient, and u
   - Secure authentication ensures safe banking transactions.
   - Admins can oversee user activities and approve transactions.
 
-*Note: Adjust the usage instructions to align with the actual functionalities of your project.*
 
 ## Contributing
 
